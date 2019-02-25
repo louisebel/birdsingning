@@ -1,0 +1,9 @@
+com\birdsinging\level\quiz\QuizIdentity.class
+com\birdsinging\level\quiz\ChoiceEntity.class
+com\birdsinging\level\quiz\QuizEntity.class
+com\birdsinging\level\LevelEntity.class
+com\birdsinging\level\LevelRepositoryImpl.class
+com\birdsinging\level\quiz\QuizRepositoryJPA.class
+com\birdsinging\level\LevelRepositoryJPA.class
+com\birdsinging\Converter.class
+com\birdsinging\Config.class
